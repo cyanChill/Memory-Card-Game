@@ -1,4 +1,4 @@
-# CV Application
+# Memory Card Game
 
 A simple memory card game created with react.
 
